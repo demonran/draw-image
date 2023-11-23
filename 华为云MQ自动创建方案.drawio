@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T03:23:36.430Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TU_jsHtYC1LUgYBH6GFO" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T01:12:01.633Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NkLttVxqX9wIMD2qbBUf" version="22.1.3" type="github">
   <diagram name="第 1 页" id="OHvzYQvvOX94lxVfNjPB">
-    <mxGraphModel dx="1434" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,11 +314,11 @@
         <mxCell id="VYQc9DKy9v42-T7aidAJ-158" value="结束" style="whiteSpace=wrap;html=1;shape=ellipse;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;perimeter=ellipsePerimeter;" vertex="1" parent="VYQc9DKy9v42-T7aidAJ-87">
           <mxGeometry x="940" y="47.085" width="89.81" height="80.83" as="geometry" />
         </mxCell>
-        <mxCell id="VYQc9DKy9v42-T7aidAJ-163" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;消费组创建&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="34" y="300" width="110" height="30" as="geometry" />
+        <mxCell id="VYQc9DKy9v42-T7aidAJ-163" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;消费组创建-服务启动时创建&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="34" y="300" width="246" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VYQc9DKy9v42-T7aidAJ-164" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;主题创建&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="30" y="620" width="110" height="30" as="geometry" />
+        <mxCell id="VYQc9DKy9v42-T7aidAJ-164" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;主题创建-消息发送时创建&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="30" y="620" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
